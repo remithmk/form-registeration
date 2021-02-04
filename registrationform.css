@@ -1,0 +1,26 @@
+body
+{
+    background-color:lightgreen;
+}
+.left{
+    background-color:lightblue;
+    margin-right:900px;
+    padding: 10px;
+    width:400px;
+    height:610px
+
+}
+
+.right{
+    margin-left: 307px;
+    margin-top:-615px
+}
+.inp{
+   
+    background-color:#DAF7A6;
+
+}
+.but{
+    
+    background-color:#DAF7A6;
+}
